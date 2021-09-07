@@ -1,1 +1,1 @@
-Just text another... ipsum dalore sit amet
+clear
